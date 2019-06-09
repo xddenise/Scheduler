@@ -1,0 +1,20 @@
+VAN
+               |            MON|            TUE|            WED|            THU|            FRI|            SAT|            SUN|
+---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+   MORNINGSHIFT|           Jack|           Jack|          Cammi|           Jack|          Cammi|            Tom|            Tom|
+               |          Candy|          Wendy|         Denise|          Wendy|          Candy|         Denise|         Marina|
+---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+     NIGHTSHIFT|          Cammi|            Tom|            Tom|           Davy|            Tom|         Rainny|         Rainny|
+               |         Serena|         Marina|           Davy|         Marina|         Rainny|          Cammi|          Cammi|
+               |               |               |               |               |         Serena|         Serena|         Serena|
+
+
+BBY
+               |            MON|            TUE|            WED|            THU|            FRI|            SAT|            SUN|
+---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+   MORNINGSHIFT|          Karol|         Hattie|            Zoe|         Marina|         Hattie|           Avan|           Avan|
+               |         Hattie|        Jeffrey|        Jeffrey|            Zoe|           Jack|      Christine|           Jack|
+---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+     NIGHTSHIFT|           Avan|           Avan|          Karol|           Avan|            Zoe|         Hattie|            Zoe|
+               |         Marina|         Samuel|         Hattie|        Jeffrey|        Jeffrey|        Jeffrey|        Jeffrey|
+               |               |               |               |               |         Samuel|            Zoe|         Samuel|

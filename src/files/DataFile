@@ -1,0 +1,468 @@
+{
+  "employees": [
+    {
+      "name": "Denise",
+      "gender": "f",
+      "type": "partTime",
+      "want": 2,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": true,
+          "number": 2,
+          "shiftType": "MORNINGSHIFT",
+          "dates": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
+          "location": ["VAN"]
+        }
+      ]
+    },
+    {
+      "name": "Serena",
+      "gender": "f",
+      "type": "partTime",
+      "want": 3,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
+          "location": ["VAN"]
+        }
+      ]
+    },
+    {
+      "name": "Wendy",
+      "gender": "f",
+      "type": "partTime",
+      "want": 2,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["TUE"],
+          "location": ["VAN"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["THU"],
+          "location": ["VAN"]
+        }
+      ]
+    },
+    {
+      "name": "Francis",
+      "gender": "m",
+      "type": "partTime",
+      "want": 2,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["WED"],
+          "location": ["VAN"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["FRI"],
+          "location": ["VAN"]
+        }
+      ]
+    },
+    {
+      "name": "Tom",
+      "gender": "m",
+      "type": "partTime",
+      "want": 5,
+      "openingVAN": true,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["TUE"],
+          "location": ["VAN"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["WED"],
+          "location": ["VAN"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["FRI"],
+          "location": ["VAN"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["SAT"],
+          "location": ["VAN"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["SUN"],
+          "location": ["VAN"]
+        }
+      ]
+    },
+    {
+      "name": "Candy",
+      "gender": "f",
+      "type": "partTime",
+      "want": 2,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON"],
+          "location": ["VAN"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["FRI"],
+          "location": ["VAN"]
+        }
+      ]
+    },
+    {
+      "name": "Cammi",
+      "gender": "f",
+      "type": "fullTime",
+      "want": 5,
+      "openingVAN": true,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["VAN"]
+        }
+      ]
+    },
+    {
+      "name": "Jack",
+      "gender": "m",
+      "type": "fullTime",
+      "want": 6,
+      "openingVAN": true,
+      "openingBBY": true,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED", "THU", "FRI", "SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED", "THU", "FRI", "SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED", "THU", "FRI", "SUN"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED", "THU", "FRI", "SUN"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Marina",
+      "gender": "f",
+      "type": "fullTime",
+      "want": 5,
+      "openingVAN": false,
+      "openingBBY": true,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "THU", "SAT","SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "THU", "SAT","SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "THU", "SAT","SUN"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "THU", "SAT","SUN"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Hattie",
+      "gender": "f",
+      "type": "fullTime",
+      "want": 5,
+      "openingVAN": false,
+      "openingBBY": true,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Christine",
+      "gender": "f",
+      "type": "partTime",
+      "want": 1,
+      "openingVAN": false,
+      "openingBBY": true,
+      "availability": [
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["SAT"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey",
+      "gender": "m",
+      "type": "partTime",
+      "want": 6,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": true,
+          "number": 3,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": 3,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Zoe",
+      "gender": "f",
+      "type": "partTime",
+      "want": 5,
+      "openingVAN": false,
+      "openingBBY": true,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Avan",
+      "gender": "m",
+      "type": "partTime",
+      "want": 5,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["SAT","SUN"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": 2,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Samuel",
+      "gender": "m",
+      "type": "partTime",
+      "want": 4,
+      "openingVAN": false,
+      "openingBBY": false,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Karol",
+      "gender": "f",
+      "type": "partTime",
+      "want": 2,
+      "openingVAN": false,
+      "openingBBY": true,
+      "availability": [
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON"],
+          "location": ["BBY"]
+        },
+        {
+          "any": false,
+          "number": 1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["WED"],
+          "location": ["BBY"]
+        }
+      ]
+    },
+    {
+      "name": "Davy",
+      "gender": "m",
+      "type": "fullTime",
+      "want": -1,
+      "openingVAN": true,
+      "openingBBY": true,
+      "availability": [
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["VAN"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "MORNINGSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        },
+        {
+          "any": true,
+          "number": -1,
+          "shiftType": "NIGHTSHIFT",
+          "date": ["MON", "TUE", "WED","THU", "FRI","SAT","SUN"],
+          "location": ["BBY"]
+        }
+      ]
+    }
+  ]
+}

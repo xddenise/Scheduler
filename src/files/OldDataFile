@@ -1,0 +1,1280 @@
+{
+  "location": ["VAN", "BBY"],
+  "employees": [
+    {
+      "name": "Denise",
+      "gender": "f",
+      "want": 2,
+      "opening": [false,false],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Serena",
+      "gender": "f",
+      "want": 4,
+      "opening": [false,false],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Wendy",
+      "gender": "f",
+      "want": 2,
+      "opening": [false,false],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Tom",
+      "gender": "m",
+      "want": 5,
+      "opening": [true,false],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": true
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": true
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": true
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": true
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "name": "Candy",
+      "gender": "f",
+      "want": 2,
+      "opening": [false,false],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Jack",
+      "gender": "m",
+      "want": 7,
+      "opening": [true,true],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Marina",
+      "gender": "f",
+      "want": 5,
+      "opening": [false,true],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Cammi",
+      "gender": "f",
+      "want": 5,
+      "opening": [true,false],
+      "balancedShifts": true,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Rainny",
+      "gender": "f",
+      "want": 3,
+      "opening": [false,false],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Davy",
+      "gender": "m",
+      "want": -1,
+      "opening": [true,true],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "VAN",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Hattie",
+      "gender": "f",
+      "want": 5,
+      "opening": [false,true],
+      "balancedShifts": true,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Christine",
+      "gender": "f",
+      "want": 1,
+      "opening": [false,true],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey",
+      "gender": "m",
+      "want": 6,
+      "opening": [false,false],
+      "balancedShifts": true,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Zoe",
+      "gender": "f",
+      "want": 5,
+      "opening": [false,true],
+      "balancedShifts": true,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Avan",
+      "gender": "m",
+      "want": 5,
+      "opening": [false,false],
+      "balancedShifts": true,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": true
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "name": "Samuel",
+      "gender": "m",
+      "want": 5,
+      "opening": [false,false],
+      "balancedShifts": true,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 2,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 4,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 5,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 6,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 7,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    },
+    {
+      "name": "Karol",
+      "gender": "f",
+      "want": 2,
+      "opening": [false,true],
+      "balancedShifts": false,
+      "availability": [
+        {
+          "shiftType": "MORNINGSHIFT",
+          "date": 1,
+          "location": "BBY",
+          "fixed": false
+        },
+        {
+          "shiftType": "NIGHTSHIFT",
+          "date": 3,
+          "location": "BBY",
+          "fixed": false
+        }
+      ]
+    }
+  ]
+}
